@@ -20,7 +20,8 @@ class Employee implements Sunstar {
         System.out.println(age);
 }
 }
-class lis extends Employee{
+class lis extends EmployeE{.class
+
  
 
 }
